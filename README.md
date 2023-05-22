@@ -1,7 +1,7 @@
 # Avatar
 This code is part of a performance art piece completed for University of Washington Course DXARTS 472 exploring inverted relationships of power between humans and the natural world
 
-# Piece Description
+# Details
 The artist is connected to a TENS Unit muscle stimulator that is coded to activate according to
 data collected by sensors on a plant. Depending on how prototyping goes, this data will either
 be translated live or be pre-recorded and displayed on the day of the exhibition via the artist’s
@@ -21,3 +21,6 @@ the only input is from the plant itself– no human interference– then that ma
 from the artist's live reactions to audience members interacting with the plant. While one
 subverts roles, the other simply reveals them in a format that is easier for people to empathize
 with. Ideally, the piece would be doing the former.
+
+For more information on the artwork, take a look my proposal here:
+[JohnsonSophia_DXARTS472 Proposal.pdf](https://github.com/ovidesigns/Avatar/files/11536598/JohnsonSophia_DXARTS472.Proposal.pdf)
