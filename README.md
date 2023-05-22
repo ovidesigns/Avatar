@@ -9,6 +9,7 @@ body in a short, live performance. Should the data be collected and translated l
 have any significant moment-to-moment variation in plant stimulus readings– audience
 members will be encouraged to interact with the plant and see the artist react as the plant’s
 avatar to their input.
+
 The goal of this piece is to call into question who has the power in this relationship normally and
 then subvert it in the gallery. The plant is enacting its will upon the artist in a way that mirrors
 mankind’s subjugation of nature. Preceding the industrial revolution, this relationship would have
